@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">214085163_RAPULENG</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hintBreed">please enter the Breed of the Dog</string>
+    <string name="hintAge">please enter the Age of the Dog</string>
+    <string name="hintName">please enter the Name of the Dog</string>
+    <string name="hintSubmit">SUBMIT BOOKINGS</string>
+    <string name="hintView">VIEW ALL DOGS</string>
+    <string name="hintVisit">BOOK A VISIT</string>
+    <string name="hintStatus">Status of Dogs\'s Visit</string>
+    <string name="hintReedInfo">Breed Information</string>
+
+
+</resources>
